@@ -1,0 +1,12 @@
+opencv-python-headless>=4.9
+pytesseract>=0.3.10
+pillow>=10.1
+numpy>=1.26
+pydantic>=2.6
+rapidfuzz>=3.6
+anthropic>=0.40
+fastapi>=0.110
+uvicorn>=0.29
+python-multipart>=0.0.9
+pandas>=2.1
+pytest>=8.0
